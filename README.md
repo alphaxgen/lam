@@ -2,7 +2,7 @@
 
 **Production-grade workflow migration platform that seamlessly transforms n8n automations into Lamatic.ai's intelligent workflow format.**
 
-[![Production Ready](https://img.shields.io/badge/Production-Ready-brightgreen.svg)]()
+[![Production 0-1](https://img.shields.io/badge/Production-Ready-brightgreen.svg)]()
 [![Node Coverage](https://img.shields.io/badge/Node%20Coverage-50%2B%20Types-blue.svg)]()
 [![Accuracy](https://img.shields.io/badge/Accuracy-100%25-success.svg)]()
 [![Integration](https://img.shields.io/badge/Integration-Ready-orange.svg)]()
@@ -19,7 +19,7 @@ This platform offers **two distinct migration approaches** to accommodate differ
 - ✅ **Secure**: No external API calls required
 - ✅ **Complete Control**: User manages their own data export
 - ✅ **Privacy First**: All processing happens locally
-- ✅ **Production Ready**: Immediate deployment capability
+- ✅ **Production 0-1**: Immediate deployment capability
 
 ### **Approach 2: API Integration (Bulk Migration)** 🔗
 *Enterprise bulk migration - Streamlined for large-scale transitions*
